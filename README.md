@@ -1,4 +1,4 @@
-## **NLP-TextClassificationTask**  
+## **NLP Model For Text Classification Problem With and Without DA**  
   
 
 
@@ -9,8 +9,9 @@
 
 <br/>
 
-# Usage
+# How can you run NLP model without DA (NLP Model Without DA)
 
+```
 You can run NLP-TextClassificationTask for  any text classification dataset in less than 2 minutes. Just two steps:
 
 ### Step 01
@@ -24,4 +25,6 @@ Install NLTK (if you don't have it already):
 ### Step 02
 ```
 Run NLP-TextClassificationTask
+```
+
 ```
