@@ -12,19 +12,24 @@
 # How can you run NLP model without DA (NLP Model Without DA)
 
 ```
-You can run NLP-TextClassificationTask for  any text classification dataset in less than 2 minutes. Just two steps:
+You can run a NLP model with or without DA by following Just two steps:
 
-### Step 01
+### Step 01 :
 ```
 Install Pandas (if you don't have it already):
 Install matplotlib (if you don't have it already):
 Install tensorflow (if you don't have it already):
 Install seaborn (if you don't have it already):
 Install NLTK (if you don't have it already):
+Install textaugment (if you don't have it already): 
+Install pickle (if you don't have it already): 
+Install os (if you don't have it already): 
+Install csv (if you don't have it already): 
+Install re (if you don't have it already):  
 ```
 ### Step 02
 ```
-Run NLP-TextClassificationTask
-```
+1. Run NLP-TextClassificationTask (From NLP Without DA Folder)
 
+2. Run NLP-DA (From NLP With DA Folder)
 ```
