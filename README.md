@@ -11,7 +11,6 @@
 
 # How can you run NLP model without DA (NLP Model Without DA)
 
-```
 You can run a NLP model with or without DA by following Just two steps:
 
 ### Step 01 :
