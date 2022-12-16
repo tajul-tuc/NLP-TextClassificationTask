@@ -39,7 +39,13 @@ Install re (if you don't have it already):
 ```
 ### Step 02
 
-Now download the dataset and also the nlp_da.py file from this project and keep them in a same folder.
+Now download the dataset and also the nlp_da.py file from this project and keep them in a same folder. 
+
+```
+data_train = pd.read_csv("train.csv")
+```
+This line need to change based on your folder path.
+
 
 Finally to run the python script open your machine terminal and write down the following command
 
