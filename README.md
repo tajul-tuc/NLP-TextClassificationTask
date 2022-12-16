@@ -3,17 +3,19 @@
 
 
 
-### This is a simple nlp model targeting Disaster Tweets dataset but you can use this model for any text classification task.  
+### Here you will find two NLP model (One with DA methods and another one without DA methods) targeting the Disaster Tweets dataset (A Text Classification Problem)  
   
   
 
 <br/>
 
-# How can you run NLP model without DA (NLP Model Without DA)
+# How can you run these NLP models
 
 You can run a NLP model with or without DA by following Just two steps:
 
 ### Step 01 :
+Download the dataset(TweetDataset) along with the pythong script (NLP Model) you want to run and then install some python libraries if they are not already installed in your machine.
+
 ```
 Install Pandas (if you don't have it already):
 Install matplotlib (if you don't have it already):
@@ -27,10 +29,12 @@ Install csv (if you don't have it already):
 Install re (if you don't have it already):  
 ```
 ### Step 02
-```
-1. Run NLP-TextClassificationTask (From NLP Model Without DA Folder)
+Now it's time to run a NLP model using the machine terminal. You can follow the below commands to run your script using your machine terminal.
 
-2. Run NLP-DA (From NLP Model With DA Folder)
+```
+1. Run NLP-TextClassificationTask (From NLP Model Without DA Folder) ---> python3 NLP-TextClassificationTask.py
+
+2. Run NLP-DA (From NLP Model With DA Folder) ---> python3 NLP-DA.py
 ```
 
 
