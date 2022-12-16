@@ -1,9 +1,9 @@
-## **NLP Model with Data Augmentation Methods For Disaster Tweets Dataset**  
+## **Simple NLP Model For Disaster Tweets Dataset**  
   
 
 
 
-### This is a simple nlp model with data augmentation methods (EDA) targeting Disaster Tweets dataset but you can use this model for any text classification task.  
+### This is a simple nlp model targeting Disaster Tweets dataset but you can use this model for any text classification task.  
   
   
 
@@ -31,7 +31,6 @@ Install matplotlib (if you don't have it already):
 Install tensorflow (if you don't have it already):
 Install seaborn (if you don't have it already):
 Install NLTK (if you don't have it already):
-Install textaugment (if you don't have it already): 
 Install pickle (if you don't have it already): 
 Install os (if you don't have it already): 
 Install csv (if you don't have it already): 
@@ -39,21 +38,22 @@ Install re (if you don't have it already):
 ```
 ### Step 03 :
 
-Now download the dataset and also the nlp_da.py file from this project and keep them in a same folder. 
+Now download the dataset and also the NLP-TextClassificationTask.py file from this project and keep them in a same folder. 
 
 ```
-data_train = pd.read_csv("train.csv")
+tweet = pd.read_csv('C:/TweetDataSet/train.csv')
+test = pd.read_csv('C:/TweetDataSet/test.csv')
 ```
-This line need to change based on your folder path.
+These lines need to change based on your folder path.
 
 
 Finally to run the python script open your machine terminal and write down the following command
 
 ```
-python3 nlp_da.py
+python3 NLP-TextClassificationTask.py
 ```
 
-That's it! We have successfully run a nlp model with data augmentation methods for solving a text classification task!
+That's it! We have successfully run a nlp model for solving a text classification task!
 
 ### Step 04 :
 Can you help us by sharing your experience? Please go to the following link to provide some answers for an ongoing survey..

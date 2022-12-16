@@ -28,7 +28,14 @@ Install re (if you don't have it already):
 ```
 ### Step 02
 ```
-1. Run NLP-TextClassificationTask (From NLP Without DA Folder)
+1. Run NLP-TextClassificationTask (From NLP Model Without DA Folder)
 
-2. Run NLP-DA (From NLP With DA Folder)
+2. Run NLP-DA (From NLP Model With DA Folder)
+```
+
+
+Can you help us by sharing your experience? Please go to the following link to provide some answers for an ongoing survey..
+
+```
+shorturl.at/dtUX2
 ```
