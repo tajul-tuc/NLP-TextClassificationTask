@@ -38,6 +38,6 @@ Now it's time to run a NLP model using the machine terminal. You can follow the 
 ```
 Can you help us by sharing your experience? Please scan below QR code to provide some answers realted to this task for one of ongoing survey..
 
-```
+
 ![final](https://user-images.githubusercontent.com/15702514/208157153-826f574b-7c8d-40ee-8c32-b1c26f6bc5d7.png)
-```
+
