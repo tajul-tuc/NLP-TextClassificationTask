@@ -15,7 +15,7 @@
 
 You can run a NLP model with or without DA by following Just two steps:
 
-### Step 01 :
+### Step 01 
 Download the dataset(TweetDataset) along with the pythong script (NLP Model) you want to run and then install some python libraries if they are not already installed in your machine.
 
 ```
