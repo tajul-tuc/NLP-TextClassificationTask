@@ -5,8 +5,10 @@
 
 ### Here you will find two NLP model (One with DA methods and another one without DA methods) targeting the Disaster Tweets dataset (A Text Classification Problem)  
   
-  
-
+  To know more about the dataset and the problem you can go through the below link : 
+ ```
+ shorturl.at/prAC6
+```
 <br/>
 
 # How can you run these NLP models
