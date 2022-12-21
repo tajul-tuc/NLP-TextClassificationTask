@@ -9,8 +9,8 @@ from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 
 #Pandas DataFrame to see 5 rows
-tweet = pd.read_csv('C:/Users/T.Islam/Documents/TweetDataSet/train.csv')
-test = pd.read_csv('C:/Users/T.Islam/Documents/TweetDataSet/test.csv')
+tweet = pd.read_csv('C:/TweetDataSet/train.csv')
+test = pd.read_csv('C:/TweetDataSet/test.csv')
 #print(tweet.head(3))
 
 print('There are {} rows and {} columns in train'.format(tweet.shape[0],tweet.shape[1]))
