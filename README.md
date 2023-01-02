@@ -18,7 +18,7 @@ You can run a NLP model with or without DA by following Just two steps:
 
 
 ### Step 01 
-Download the dataset(TweetDataset) along with the python script (NLP Model) you want to run from NLP Model With DA / NLP Model Without DA folder and then install some python libraries if they are not already installed in your machine.
+Download the dataset(From TweetDataset Folder) along with the python script (NLP Model) you want to run (From NLP Model With DA / NLP Model Without DA Folder). Then install some python libraries if they are not already installed in your machine.
 
 ```
 Install Pandas (if you don't have it already): pip3 install pandas
@@ -39,7 +39,7 @@ shorturl.at/eFZ34
 ```
 
 ### Step 02
-Now it's time to run a NLP model using the machine terminal. You can follow the below commands to run your script using your machine terminal.
+Now it's time to run a NLP model using the machine terminal. You can follow the below commands to run your script using your machine terminal. Make Sure dataset and python scripts are in same folder or adjust the path.
 
 ```
 1. Run NLP-TextClassificationTask (From NLP Model Without DA Folder) ---> python3 NLP-TextClassificationTask.py
